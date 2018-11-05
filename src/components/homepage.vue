@@ -3,7 +3,7 @@
     <v-toolbar dense color="#218c74" class="elevation-13">
       <v-toolbar-title class="mr-5 align-center">
         <span class="title white--text">
-          <v-icon>🎼</v-icon> cuzy
+          <v-icon>🎼</v-icon> fuwa
         </span>
       </v-toolbar-title>
       <v-spacer></v-spacer>
