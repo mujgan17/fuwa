@@ -1,6 +1,6 @@
 <template>
   <v-app id="app">
-    <v-toolbar dense color="#218c74" class="elevation-13">
+    <v-toolbar dense color="#218c74" class="elevation-15">
       <v-toolbar-title class="mr-5 align-center">
         <span class="title white--text">
           <v-icon>🎼</v-icon> fuwa
